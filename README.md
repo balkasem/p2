@@ -1,6 +1,6 @@
 # Project 2
 + By: *Osama Balkasem*
-+ Production URL: <http://p2..eileh.com>
++ Production URL: <http://p2.eileh.com>
 
 ## Outside resources
 *your list of outside resources go here*
