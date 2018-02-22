@@ -1,0 +1,25 @@
+
+		body {
+					text-align: center;
+					overflow: hidden;
+				}
+				h2 {
+					text-align: center;
+				}
+				p {
+					font-size: 18px;
+					text-align: left;
+					width: 50%;
+					margin-left: 25%;
+
+				}
+				img {
+					display:block;
+					margin:auto;
+					width:20%;
+				}
+				.tainer {
+					background-color: white;
+					min-width: 600px;
+					margin-bottom: 600px;
+				}
