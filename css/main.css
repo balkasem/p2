@@ -1,25 +1,26 @@
+body {
+    padding: 20px;
+    text-align: center;
+}
+.container {
+    background-color: lightyellow;
+}
 
-		body {
-					text-align: center;
-					overflow: hidden;
-				}
-				h2 {
-					text-align: center;
-				}
-				p {
-					font-size: 18px;
-					text-align: left;
-					width: 50%;
-					margin-left: 25%;
+.form-group.required .control-label:after {
+    color: red;
+    content: '*';
+}
 
-				}
-				img {
-					display:block;
-					margin:auto;
-					width:20%;
-				}
-				.tainer {
-					background-color: white;
-					min-width: 600px;
-					margin-bottom: 600px;
-				}
+.form-group.required .control-label:after {
+    color: red;
+    content: '*';
+}
+
+.result {
+    margin: 2% 0%;
+    padding: 2%;
+    background-color: aliceblue;
+    border-style: ridge;
+    border-width: 4px;
+    border-color: darkolivegreen;
+}
